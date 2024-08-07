@@ -6,7 +6,7 @@ let accountState;
 
 // accountId = 2 // not allowed
 
-accountEmail = "hc@hc.com";
+accountEmail = "amit@google.com";
 accountPassword = "21212121";
 accountCity = "Bengaluru";
 
